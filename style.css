@@ -1,0 +1,20 @@
+#h3a{
+    margin-top: 10px;
+}
+
+body{
+    text-align: center;
+        background: linear-gradient(yellow,pink,aqua,wheat,magenta,aqua,yellow);
+        background-size: cover;
+}
+
+ canvas {
+   border:10px double rebeccapurple;
+   margin-top: 100px;
+}
+
+.btn-success:hover{
+    background: linear-gradient(to top, yellow,aqua,pink,yellow);
+    color: black;
+    font-weight: 600;
+}
